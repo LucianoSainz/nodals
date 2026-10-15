@@ -13,7 +13,7 @@ const dbMiel = {
     hmf: "8.5 mg/kg",
     antibioticos: "Negativo(Certificado)",
     tamboresAsociados: "TB-001, TB-002, TB-003",
-    hashBlockchain: "0x48f93ac912b74d81f9a201c843e91823bc9a",
+    hashBlockchain: "0x48f93ac912b74d81f9a201c843e91823bc9",
   },
   "LOTE-2026-02": {
     lote: "LOTE-2026-02",
@@ -28,7 +28,7 @@ const dbMiel = {
     hmf: "6.2 mg/kg",
     antibioticos: "Negativo (Certificado)",
     tamboresAsociados: "TB-010, TB-011",
-    hashBlockchain: "0x91823bc991af48f93ac912b74d81f9a201c8e",
+    hashBlockchain: "0x91823bc991af48f93ac912b74d81f9a201c8",
   },
 };
 

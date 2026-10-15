@@ -11,7 +11,7 @@ const dbMiel = {
     renapa: "RN-30291-BA",
     humedad: "17.2 %",
     hmf: "8.5 mg/kg",
-    antibioticos: "Negativo (Certificado)",
+    antibioticos: "Negativo(Certificado)",
     tamboresAsociados: "TB-001, TB-002, TB-003",
     hashBlockchain: "0x48f93ac912b74d81f9a201c843e91823bc9a",
   },

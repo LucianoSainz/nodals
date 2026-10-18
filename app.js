@@ -3,12 +3,13 @@ const dbMiel = {
   "LOTE-2026-01": {
     lote: "LOTE-2026-01",
     estado: "Auténtico (Verificado)",
-    fechaCosecha: "10 de Feb, 2026",
 
-    calidad: "Miel Premium de Abeja",
     apicultor: "Establecimiento Azahares",
     ubicacion: "Los Toldos, Junin - Buenos Aires",
     variedad: "Multifloral de Pradera",
+    fechaCosecha: "10 de Feb, 2026",
+    calidad: "Miel Premium de Abeja",
+
     renapa: "RN-30291-BA",
     humedad: "17.2 %",
     hmf: "8.5 mg/kg",
@@ -19,11 +20,13 @@ const dbMiel = {
   "LOTE-2026-02": {
     lote: "LOTE-2026-02",
     estado: "Auténtico (Verificado)",
-    fechaCosecha: "18 de Feb, 2026",
-    variedad: "Monofloral de Eucalipto",
-    calidad: "Miel Premium de Abeja",
+
     apicultor: "Apiarios del Sur S.A.",
     ubicacion: "Necochea, Buenos Aires",
+    variedad: "Monofloral de Eucalipto",
+    fechaCosecha: "18 de Feb, 2026",
+    calidad: "Miel Premium de Abeja",
+
     renapa: "RN-41920-BA",
     humedad: "16.8 %",
     hmf: "6.2 mg/kg",

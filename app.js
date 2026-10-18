@@ -4,15 +4,16 @@ const dbMiel = {
     lote: "LOTE-2026-01",
     estado: "Auténtico (Verificado)",
     fechaCosecha: "10 de Feb, 2026",
-    variedad: "Multifloral de Pradera",
+
     calidad: "Miel Premium de Abeja",
     apicultor: "Establecimiento Azahares",
     ubicacion: "Los Toldos, Junin - Buenos Aires",
+    variedad: "Multifloral de Pradera",
     renapa: "RN-30291-BA",
     humedad: "17.2 %",
     hmf: "8.5 mg/kg",
     antibioticos: "Negativo(Certificado)",
-    tamboresAsociados: "TB-001, TB-002, TB-003",
+    tamboresAsociados: "TB-001, TB-002",
     hashBlockchain: "0x48f93ac912b74d81f9a201c843e91823bc9",
   },
   "LOTE-2026-02": {
